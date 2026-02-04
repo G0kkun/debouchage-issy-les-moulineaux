@@ -43,10 +43,10 @@ document.addEventListener('DOMContentLoaded', function() {
     // ===================================
     // 2. CARTE LEAFLET
     // ===================================
-    const VILLE_SLUG = 'colomiers';
-    const VILLE_NOM = 'Colomiers';
-    const GPS_LAT = 43.6107;
-    const GPS_LON = 1.3337;
+    const VILLE_SLUG = 'issy-les-moulineaux';
+    const VILLE_NOM = 'Issy-les-Moulineaux';
+    const GPS_LAT = 48.8239;
+    const GPS_LON = 2.27;
     
     const mapElement = document.getElementById(VILLE_SLUG + '-map');
     
